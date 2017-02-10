@@ -4,11 +4,9 @@
 
 //    TO DO
 
-//add stadard timers
-//add function benchmarking
 
 
-
+typedef std::chrono::steady_clock s_clock;
 typedef std::chrono::high_resolution_clock hres_time;
 
 //Standard
