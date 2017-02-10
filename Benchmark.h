@@ -29,7 +29,10 @@ typedef std::chrono::duration<float, std::nano> fnano; //nanoseconds in float ~ 
 typedef std::chrono::duration<double, std::nano> dnano; //nanoseconds in double ~ 15 digits
 
 
-//Template Functions - Measure function execution time
+/* Template Functions 
+* Measure function execution time
+* High Resolution Timers only
+*/
 
 //Seconds
 template<typename F, typename... Args> 
