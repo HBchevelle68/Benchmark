@@ -3,19 +3,13 @@
 
 * Benchmarking tool to measure program and function performance
 
-
-
 ### Prerequisites
+
 * c++11
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Anthony Portante** 
 
 ## License
 
