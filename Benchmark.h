@@ -8,6 +8,7 @@
 
 typedef std::chrono::steady_clock s_clock;
 typedef std::chrono::high_resolution_clock hres_time;
+typedef std::chrono::high_resolution_clock::time_point t_point;
 
 //Standard
 typedef std::chrono::seconds sec;
