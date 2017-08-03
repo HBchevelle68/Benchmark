@@ -18,7 +18,7 @@
 
 ## Authors
 
-* **HBchevelle68** 
+* **sunstriker** 
 
 ## License
 
